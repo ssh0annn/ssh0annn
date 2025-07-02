@@ -23,12 +23,13 @@
 </a>
 </p>
 
-### 😎 Sobre mi
+👋 Hola, soy Johan Diaz 
 
-Desarrollador Android especializado en *Kotlin* y *Java, con foco en la **lógica de negocio, el **diseño de arquitectura limpia* y el desarrollo de apps móviles robustas, mantenibles y escalables.
-Trabajo con tecnologías como *Room Database, **Firebase (Firestore, Auth, Storage)* y *APIs REST, aplicando patrones arquitectónicos sólidos (MVVM, **MVP, **MVC, **Arquitectura Hexagonal) y buenas prácticas de desarrollo (código limpio, principios **SOLID, pruebas, separación de responsabilidades*).
+🎓 Ingenierío en Sistemas con mención en Infraestructura 
 
-Me especializo en la capa lógica de las aplicaciones, sincronización offline/online, control de versiones (*Git) y trabajo en equipo bajo **metodologías ágiles (Scrum)*.
+📚 Actualmente estudiando DevOps 
+
+💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social 
 
 ---
 
