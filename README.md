@@ -19,6 +19,15 @@
 
 ---
 
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,git,github,linux,react,html,css,js,nodejs,firebase,figma&perline=8" />
+</p>
+
+---
+
+
 ## 🚀 Proyectos destacados
 
 ### 🩺 LunaRD
@@ -55,9 +64,8 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
 
 ---
 
-## 📫 Contacto
+## 🌐 Conéctate conmigo
 
-- GitHub: [@ssh0annn](https://github.com/ssh0annn)  
 - Email: jrdcdiaz2001@gmail.com
 - LinkedIn: www.linkedin.com/in/ingjohandiaz
 
@@ -66,19 +74,5 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
 > *Actualmente profundizando mis habilidades DevOps para llevar mis apps a otro nivel con despliegue continuo y automatización profesional.*
 
 
-### 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,git,github,linux,react,html,css,js,nodejs,firebase,figma&perline=8" />
-</p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh0annn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh0annn&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
----
