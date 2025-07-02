@@ -35,9 +35,9 @@
 
 ### 🩺 LunaRD
 Aplicación Android desarrollada para el concurso **Hack4Moms (RD, 4 feb 2024)**.  
-Su objetivo es ayudar a las mujeres a gestionar su **ciclo menstrual**, promoviendo el bienestar, la privacidad y la educación menstrual.
+Luna_rd es una aplicación diseñada para ayudar a las mujeres a gestionar su ciclo menstrual. Este proyecto fue desarrollado en colaboración con colegas para el concurso Hack4Moms en la República Dominicana, realizado el 4 de febrero de 2024.
 
-- **Tecnologías**: Kotlin, Firebase Firestore, Google Maps API, Glide  
+- **Tecnologías**: Flutter · Dart · Firebase - IA Apis
 - **Aportes**:
   - Registro y seguimiento del ciclo menstrual
   - Visualización de centros de salud y soporte mediante mapas
@@ -79,8 +79,8 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
 ## 📫 Contacto
 
 - GitHub: [@ssh0annn](https://github.com/ssh0annn)  
-- Email: [TuCorreo@ejemplo.com]  
-- LinkedIn: [TuPerfilLinkedIn]  
+- Email: jrdcdiaz2001@gmail.com
+- LinkedIn: www.linkedin.com/in/ingjohandiaz
 
 ---
 
