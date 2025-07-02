@@ -10,9 +10,6 @@
 <img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
 
-[![GitHub followers](https://img.shields.io/github/followers/iC0d1g0?style=social)](https://github.com/iC0d1g0)
-
-
 ## 🧰 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
