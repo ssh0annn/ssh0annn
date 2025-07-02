@@ -62,35 +62,33 @@ Apunto a trabajar en proyectos desafiantes que involucren:
 - Git, GitHub / GitLab  
 - Scrum / Metodologías ágiles
   
-🚀 Proyectos destacados 
+## 🚀 Proyectos destacados
 
-🩺 LunaRD 
+### 🩺 LunaRD
+Aplicación Android desarrollada para el concurso **Hack4Moms (RD, 4 feb 2024)**.  
+Su objetivo es ayudar a las mujeres a gestionar su **ciclo menstrual**, promoviendo el bienestar, la privacidad y la educación menstrual.
 
-Aplicación Android desarrollada para el concurso Hack4Moms (RD, 4 feb 2024). 
+- **Tecnologías**: Kotlin, Firebase Firestore, Google Maps API, Glide  
+- **Aportes**:
+  - Registro y seguimiento del ciclo menstrual
+  - Visualización de centros de salud y soporte mediante mapas
+  - Notificaciones, consejos y contenido educativo
+  - Diseño accesible y colaborativo, creado junto a un equipo para un hackathon con enfoque social
 
-Su objetivo es ayudar a las mujeres a gestionar su ciclo menstrual, promoviendo el bienestar, la privacidad y la educación menstrual. 
+---
 
-Tecnologías: Kotlin, Firebase Firestore, Google Maps API, Glide  
-Aportes: 
-Registro y seguimiento del ciclo menstrual 
-Visualización de centros de salud y soporte mediante mapas 
-Notificaciones, consejos y contenido educativo 
-Diseño accesible y colaborativo, creado junto a un equipo para un hackathon con enfoque social 
+### 🛒 Atenas APK
+Punto de venta (POS) completo desarrollado para el ecosistema Android.  
+Pensado para pequeñas y medianas empresas que necesitan una solución ágil, local y confiable.
 
- 
+- **Tecnologías**: Kotlin, Jetpack Compose, Room, ViewModel, Coroutines  
+- **Aportes**:
+  - Gestión de productos, inventario, ventas y reportes
+  - Arquitectura MVVM escalable y mantenimiento limpio del código
+  - Base de datos local (offline-ready) con persistencia confiable
+  - Interfaz moderna adaptada a tabletas y smartphones
 
-🛒 Atenas APK 
-
-Punto de venta (POS) completo desarrollado para el ecosistema Android. 
-
-Pensado para pequeñas y medianas empresas que necesitan una solución ágil, local y confiable. 
-
-Tecnologías: Kotlin, Jetpack Compose, Room, ViewModel, Coroutines  
-Aportes: 
-Gestión de productos, inventario, ventas y reportes 
-Arquitectura MVVM escalable y mantenimiento limpio del código 
-Base de datos local (offline-ready) con persistencia confiable 
-Interfaz moderna adaptada a tabletas y smartphones 
+---
 
 
 
