@@ -25,7 +25,7 @@
 
 # 👋 Hola, soy ssh0annn
 
-🎓 Egresado de Ingeniería en Sistemas con mención en Infraestructura  
+🎓 Ingenierío en Sistemas con mención en Infraestructura  
 📚 Actualmente estudiando DevOps  
 💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
 
