@@ -12,17 +12,12 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/iC0d1g0?style=social)](https://github.com/iC0d1g0)
 
-## 🧠 Android Software Engineer – Kotlin & Java (Business Logic & Architecture)
 
 ## 🧰 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/Room-007ACC?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-
-
 
 ## 🚀 Proyectos destacados
 
