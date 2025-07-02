@@ -1,5 +1,11 @@
 <div align="center">
-<h1 align="center">👋 Hola, soy Johan Diaz👋</h1>
+# 👋 Hola, soy Johan Diaz
+
+🎓 Ingenierío en Sistemas con mención en Infraestructura  
+📚 Actualmente estudiando DevOps  
+💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
+
+---
 </div>
 <img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
@@ -14,22 +20,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Room](https://img.shields.io/badge/Room-007ACC?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ⚙ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/iC0d1g0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iC0d1g0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
-# 👋 Hola, soy Johan Diaz
 
-🎓 Ingenierío en Sistemas con mención en Infraestructura  
-📚 Actualmente estudiando DevOps  
-💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
-
----
 
 ## 🚀 Proyectos destacados
 
@@ -75,6 +68,15 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
 - Preparación para integrar automatización, despliegue y monitoreo (DevOps en progreso)
 
 ---
+
+### ⚙ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/iC0d1g0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iC0d1g0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 📫 Contacto
 
