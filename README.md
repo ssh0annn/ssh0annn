@@ -7,7 +7,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platzi/platzi/master/github-cover.png" alt="Banner de ejemplo" width="100%" />
+</p>
 
 
 ## 🔧 Tecnologías
