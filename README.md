@@ -3,7 +3,7 @@
 
 🎓 Ingenierío en Sistemas mención Infraestructura  
 📚 Actualmente estudiando DevOps  
-💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
+💡 Apasionado por la automatización, el desarrollo de Apps y la creación de soluciones con impacto social
 
 ---
 
