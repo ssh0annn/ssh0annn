@@ -42,25 +42,26 @@ Apunto a trabajar en proyectos desafiantes que involucren:
 ### 🌐 Idiomas
 
 - Español (C2 – Nativo)  
-- Inglés (C1 – Avanzado)  
-- Portugués (B2 – Intermedio alto)  
-- Ruso (A2 – Básico)  
-- Japonés (A2 – Básico)
+- Inglés (C1 – Avanzado)
+- 
+---
+
+## 🔧 Tecnologías
+
+- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
+- Web (HTML, CSS, JavaScript, **React**)  
+- Automatización con Bash (en otros repos)  
+- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
 
 ---
 
-### 🧩 Stack principal
+## 📈 Aportes
 
-- Kotlin / Java  
-- Jetpack Compose / XML  
-- Firebase (Firestore, Realtime DB, Auth, Storage)  
-- Room Database  
-- WorkManager  
-- Retrofit / Ktor  
-- Dagger Hilt  
-- Arquitectura MVVM, MVP, MVC, Hexagonal  
-- Git, GitHub / GitLab  
-- Scrum / Metodologías ágiles
+- Proyectos con impacto real: educación menstrual, soluciones de venta y gestión
+- Enfoque en buenas prácticas, arquitectura limpia y escalabilidad
+- Preparación para integrar automatización, despliegue y monitoreo (DevOps en progreso)
+
+---
   
 ## 🚀 Proyectos destacados
 
