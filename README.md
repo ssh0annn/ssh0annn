@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm Adderlis Jr. Severino (iCodigo) 👋</h1>
+<h1 align="center">👋 Hola, soy Johan Diaz👋</h1>
 </div>
 <img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
@@ -23,7 +23,7 @@
 </a>
 </p>
 
-# 👋 Hola, soy ssh0annn
+# 👋 Hola, soy Johan Diaz
 
 🎓 Ingenierío en Sistemas con mención en Infraestructura  
 📚 Actualmente estudiando DevOps  
