@@ -14,7 +14,7 @@
 
 - Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
 - Web (HTML, CSS, JavaScript, **React**)  
-- Automatización con Bash (en otros repos)  
+- Automatización con Bash
 - En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
 
 ---
