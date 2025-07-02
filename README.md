@@ -1,12 +1,12 @@
-<div align="center">
-# 👋 Hola, soy Johan Diaz
+
+<h1># 👋 Hola, soy Johan Diaz</h1>
 
 🎓 Ingenierío en Sistemas con mención en Infraestructura  
 📚 Actualmente estudiando DevOps  
 💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
 
 ---
-</div>
+
 <img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
 
