@@ -1,7 +1,7 @@
 
 <h1># 👋 Hola, soy Johan Diaz</h1>
 
-🎓 Ingenierío en Sistemas con mención en Infraestructura  
+🎓 Ingenierío en Sistemas mención Infraestructura  
 📚 Actualmente estudiando DevOps  
 💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
 
@@ -10,11 +10,14 @@
 <img src="https://raw.githubusercontent.com/iC0d1g0/iC0d1g0/019ab9a78672d81d6fb7e4cefc06148918788728/1728880670993.jpeg">
 
 
-## 🧰 Tech Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room-007ACC?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🔧 Tecnologías
+
+- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
+- Web (HTML, CSS, JavaScript, **React**)  
+- Automatización con Bash (en otros repos)  
+- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
+
+---
 
 ## 🚀 Proyectos destacados
 
@@ -41,15 +44,6 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
   - Arquitectura MVVM escalable y mantenimiento limpio del código
   - Base de datos local (offline-ready) con persistencia confiable
   - Interfaz moderna adaptada a tabletas y smartphones
-
----
-
-## 🔧 Tecnologías
-
-- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
-- Web (HTML, CSS, JavaScript, **React**)  
-- Automatización con Bash (en otros repos)  
-- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
 
 ---
 
