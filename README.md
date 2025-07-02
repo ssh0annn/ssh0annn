@@ -7,28 +7,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platzi/platzi/master/github-cover.png" alt="Banner de ejemplo" width="100%" />
-</p>
-
-
-## 🔧 Tecnologías
-
-- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
-- Web (HTML, CSS, JavaScript, **React**)  
-- Automatización con Bash
-- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
-
----
-
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,git,github,linux,react,html,css,js,nodejs,firebase,figma&perline=8" />
 </p>
 
+- Automatización con Bash
+ - En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
 ---
-
 
 ## 🚀 Proyectos destacados
 
