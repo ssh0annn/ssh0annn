@@ -23,46 +23,14 @@
 </a>
 </p>
 
-👋 Hola, soy Johan Diaz 
-🎓 Ingenierío en Sistemas con mención en Infraestructura 
-📚 Actualmente estudiando DevOps 
-💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social 
+# 👋 Hola, soy ssh0annn
 
-
-### 🚀 Intereses y aspiraciones
-
-Apunto a trabajar en proyectos desafiantes que involucren:
-
-- Desarrollo de *sistemas operativos Android personalizados (AOSP)*.
-- Creación e integración de *drivers*.
-- Soluciones innovadoras en *robótica, **IoT* y tecnologías emergentes.
+🎓 Egresado de Ingeniería en Sistemas con mención en Infraestructura  
+📚 Actualmente estudiando DevOps  
+💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social
 
 ---
 
-### 🌐 Idiomas
-
-- Español (C2 – Nativo)  
-- Inglés (C1 – Avanzado)
-- 
----
-
-## 🔧 Tecnologías
-
-- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
-- Web (HTML, CSS, JavaScript, **React**)  
-- Automatización con Bash (en otros repos)  
-- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
-
----
-
-## 📈 Aportes
-
-- Proyectos con impacto real: educación menstrual, soluciones de venta y gestión
-- Enfoque en buenas prácticas, arquitectura limpia y escalabilidad
-- Preparación para integrar automatización, despliegue y monitoreo (DevOps en progreso)
-
----
-  
 ## 🚀 Proyectos destacados
 
 ### 🩺 LunaRD
@@ -91,8 +59,29 @@ Pensado para pequeñas y medianas empresas que necesitan una solución ágil, lo
 
 ---
 
+## 🔧 Tecnologías
 
+- Android (Kotlin, Jetpack Compose, Firebase, Room, MVVM)  
+- Web (HTML, CSS, JavaScript, **React**)  
+- Automatización con Bash (en otros repos)  
+- En camino: **DevOps** (Docker, CI/CD, Terraform, Prometheus)  
 
-## 🌐 Contacto
-- 📫 Email: adderlis@live.com  
-- 💼 [LinkedIn]([tu-perfil-link](https://www.linkedin.com/in/adderlis-junior-severino-reyes-464179310/))
+---
+
+## 📈 Aportes
+
+- Proyectos con impacto real: educación menstrual, soluciones de venta y gestión
+- Enfoque en buenas prácticas, arquitectura limpia y escalabilidad
+- Preparación para integrar automatización, despliegue y monitoreo (DevOps en progreso)
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@ssh0annn](https://github.com/ssh0annn)  
+- Email: [TuCorreo@ejemplo.com]  
+- LinkedIn: [TuPerfilLinkedIn]  
+
+---
+
+> *Actualmente profundizando mis habilidades DevOps para llevar mis apps a otro nivel con despliegue continuo y automatización profesional.*
