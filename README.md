@@ -1,5 +1,5 @@
 
-<h1># 👋 Hola, soy Johan Diaz</h1>
+<h1>👋 Hola, soy Johan Diaz</h1>
 
 🎓 Ingenierío en Sistemas mención Infraestructura  
 📚 Actualmente estudiando DevOps  
