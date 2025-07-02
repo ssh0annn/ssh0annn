@@ -24,21 +24,10 @@
 </p>
 
 👋 Hola, soy Johan Diaz 
-
 🎓 Ingenierío en Sistemas con mención en Infraestructura 
-
 📚 Actualmente estudiando DevOps 
-
 💡 Apasionado por la automatización, el desarrollo Android y la creación de soluciones con impacto social 
 
----
-
-### 💻 También desarrollo:
-- Aplicaciones *desktop en Java* para Windows.
-- Herramientas y scripts en *Python, Kotlin y C/C++*.
-- Proyectos de *sistemas embebidos* y *electrónica avanzada SMD*.
-
----
 
 ### 🚀 Intereses y aspiraciones
 
@@ -73,51 +62,35 @@ Apunto a trabajar en proyectos desafiantes que involucren:
 - Git, GitHub / GitLab  
 - Scrum / Metodologías ágiles
   
+🚀 Proyectos destacados 
 
-## 🚀 Proyectos Destacados
+🩺 LunaRD 
 
+Aplicación Android desarrollada para el concurso Hack4Moms (RD, 4 feb 2024). 
 
-### 📱 [Atenas POS Oficial](https://github.com/iC0d1g0/Atenas_POS_Oficial)
+Su objetivo es ayudar a las mujeres a gestionar su ciclo menstrual, promoviendo el bienestar, la privacidad y la educación menstrual. 
 
-Atenas es una aplicación POS diseñada para facilitar la gestión de pequeños y medianos negocios, especialmente en el sector de servicios técnicos como tiendas de celulares.
+Tecnologías: Kotlin, Firebase Firestore, Google Maps API, Glide  
+Aportes: 
+Registro y seguimiento del ciclo menstrual 
+Visualización de centros de salud y soporte mediante mapas 
+Notificaciones, consejos y contenido educativo 
+Diseño accesible y colaborativo, creado junto a un equipo para un hackathon con enfoque social 
 
-*Tech Stack:* Kotlin · Jetpack Compose · Room · Firebase · Clean Architecture · MVVM
+ 
 
----
+🛒 Atenas APK 
 
-### 📱 [SolidNotes](https://github.com/iC0d1g0/SolidNotes)
-App Android desarrollada con Kotlin y Jetpack Compose. Sincroniza datos offline con Room. trabaja con arquitectura MVVM limpia.
+Punto de venta (POS) completo desarrollado para el ecosistema Android. 
 
-*Tech Stack:* Kotlin · Jetpack Compose · Room · Clean Architecture · MVVM
+Pensado para pequeñas y medianas empresas que necesitan una solución ágil, local y confiable. 
 
----
-
-### 🖥 [SolidDrivers](https://github.com/iC0d1g0/SolidDrivers)
-Aplicación de escritorio para Windows en Java. Automatiza la instalación de drivers desde una carpeta específica, extrae drivers originales. Pensada para técnicos y forenses.
-
-*Tech Stack:* Java · Windows APIs 
-
----
-
-### 🖥 [FireTool](https://github.com/iC0d1g0/FireTools/tree/main)
-FireTool es una herramienta sencilla pero efectiva diseñada para facilitar la instalación de los servicios de Google (incluyendo Play Store) en dispositivos Amazon Fire, sin necesidad de root ni modificaciones avanzadas.
-
-*Tech Stack:* Java · Windows APIs · Batch
-
-
----
-
-### 🖥 [Luna_rd](https://github.com/iC0d1g0/LunaRD)
-Luna_rd es una aplicación diseñada para ayudar a las mujeres a gestionar su ciclo menstrual. Este proyecto fue desarrollado en colaboración con colegas para el concurso Hack4Moms en la República Dominicana, realizado el 4 de febrero de 2024.
-
-*Tech Stack:* Flutter · Dart · Firebase - IA Apis
-
----
-
-### 🤖 [AcomerYa](https://github.com/iC0d1g0/AcomerYa)
-AcomerYa es una aplicación móvil de recetas de cocina caseras, diseñada para ayudar a los usuarios a explorar y guardar recetas de manera sencilla.
-
-*Tech Stack:* Kotlin · XML · Firebase
+Tecnologías: Kotlin, Jetpack Compose, Room, ViewModel, Coroutines  
+Aportes: 
+Gestión de productos, inventario, ventas y reportes 
+Arquitectura MVVM escalable y mantenimiento limpio del código 
+Base de datos local (offline-ready) con persistencia confiable 
+Interfaz moderna adaptada a tabletas y smartphones 
 
 
 
