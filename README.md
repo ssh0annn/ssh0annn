@@ -10,7 +10,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,java,git,github,linux,react,html,css,js,nodejs,firebase,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,linux,react,html,css,js,nodejs,firebase,figma&perline=8" />
 </p>
 
 - Automatización con Bash
