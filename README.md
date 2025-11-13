@@ -1,7 +1,7 @@
 
 <h1>👋 Hola, soy Johan Diaz</h1>
 
-🎓 Ingenierío en Sistemas y computación 
+🎓 Ingenierío en Sistemas y computación  <br>
 💡 Apasionado por la automatización, el desarrollo de Apps y la creación de soluciones con impacto social
 
 ---
